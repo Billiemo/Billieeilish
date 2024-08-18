@@ -2,18 +2,7 @@
 # Project Name
 ## Redirect
 
-This project is configured to redirect to an external link. 
-
-### Redirect Details
-
-- **Current Path:** `/` (root of the project)
-- **Redirects To:** [https://cleopatraadulatefrench.com/yrbajwpw4?key=c13dd6d2f97a5a0f967c85445d720bbb](https://cleopatraadulatefrench.com/yrbajwpw4?key=c13dd6d2f97a5a0f967c85445d720bbb)
-
-### Redirect Configuration
-
-The redirect is configured in the `vercel.json` file as follows:
-
-```json
+This project is configured to redirect to an 
 {
   "redirects": [
     {
